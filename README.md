@@ -97,7 +97,7 @@ Add support for outfit style preferences
 
 
 🙌 Author
-Developed by Prem Kalyan and nikita.
+Developed by Prem Kalyan,nikita,maan Alam and Swathi.
 Feel free to ask for improvements or frontend integration assistance 😊
 
 
